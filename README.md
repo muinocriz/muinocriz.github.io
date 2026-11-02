@@ -6,7 +6,7 @@ Small tools, data visualizations, and system experiments.
 
 把日常里的好奇心，做成能用的小工具。
 
-[GitHub](https://github.com/muinocriz) · [Personal Page](https://muinocriz.github.io/muinocriz/)
+[GitHub](https://github.com/muinocriz) · [Personal Page](https://muinocriz.github.io)
 
 </div>
 
