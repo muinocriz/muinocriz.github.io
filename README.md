@@ -14,10 +14,10 @@ Small tools, data visualizations, and system experiments.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[🔗 smartphoneSellOut](https://github.com/muinocriz/smartphoneSellOut)** <br> [🌐 Demo](https://muinocriz.github.io/smartphoneSellOut/) | 追踪新机上市后的逐周销量，支持跨品牌对比、发布周对齐、环比与自定义机型列表。 | HTML · ECharts · CSV |
-| **[🔗 hygrometer-history](https://github.com/muinocriz/hygrometer-history)** <br> [🌐 Demo](https://muinocriz.github.io/hygrometer-history/) | 把温湿度计历史记录做成长期可视化，并通过 BLE/GATT 直接导出米家温湿度计历史数据。 | HTML · ECharts · Python · BLE |
-| **[🔗 apple-silicon-ladder](https://github.com/muinocriz/apple-silicon-ladder)** <br> [🌐 Demo](https://muinocriz.github.io/apple-silicon-ladder/) | 用 Geekbench 6 数据整理 Apple Silicon 笔记本芯片天梯，并提供相对性能和换机判断。 | HTML · CSV · Data Visualization |
-| **[🔗 continuous-pinch](https://github.com/muinocriz/continuous-pinch)** <br> [🌐 Demo](https://muinocriz.github.io/continuous-pinch/) | 在 Windows 11 上把鼠标滚轮转换成 Synthetic Precision Touchpad 捏合手势，获得更自然的浏览器缩放。 | C++17 · Win32 · Windows 11 |
+| <span style="white-space:nowrap">**[🔗&nbsp;smartphoneSellOut](https://github.com/muinocriz/smartphoneSellOut)**</span><br> [🌐&nbsp;Demo](https://muinocriz.github.io/smartphoneSellOut/) | 追踪新机上市后的逐周销量，支持跨品牌对比、发布周对齐、环比与自定义机型列表。 | HTML · ECharts · CSV |
+| <span style="white-space:nowrap">**[🔗&nbsp;hygrometer&#8209;history](https://github.com/muinocriz/hygrometer-history)**</span><br> [🌐&nbsp;Demo](https://muinocriz.github.io/hygrometer-history/) | 把温湿度计历史记录做成长期可视化，并通过 BLE/GATT 直接导出米家温湿度计历史数据。 | HTML · ECharts · Python · BLE |
+| <span style="white-space:nowrap">**[🔗&nbsp;apple&#8209;silicon&#8209;ladder](https://github.com/muinocriz/apple-silicon-ladder)**</span><br> [🌐&nbsp;Demo](https://muinocriz.github.io/apple-silicon-ladder/) | 用 Geekbench 6 数据整理 Apple Silicon 笔记本芯片天梯，并提供相对性能和换机判断。 | HTML · CSV · Data Visualization |
+| <span style="white-space:nowrap">**[🔗&nbsp;continuous&#8209;pinch](https://github.com/muinocriz/continuous-pinch)**</span><br> [🌐&nbsp;Demo](https://muinocriz.github.io/continuous-pinch/) | 在 Windows 11 上把鼠标滚轮转换成 Synthetic Precision Touchpad 捏合手势，获得更自然的浏览器缩放。 | C++17 · Win32 · Windows 11 |
 
 ## Focus
 
